@@ -1,4 +1,4 @@
-str = input("Enter string : ")
+str = input("Enter String : ")
 str1 = str[::-1]
 print(str1)
 
